@@ -27,7 +27,7 @@ setup(
     '''
     This is the name of your main module file. No need to include the .py at the end.
     '''    
-    py_modules = ["TheModuleName"],
+#     py_modules = ["TheModuleName"],
     
     '''
     Leave it as default. It shows where the module is stored.
@@ -37,10 +37,9 @@ setup(
     '''
     If you have many modules included in your package, you want to use the following parameter instead of py_modules.
     '''
-#     packages = ['ThePackageName1',
-#                 'ThePackageName2',
-#                 ...
-#  ],
+    packages = ['algorithms',
+                
+ ],
     
     '''
     Change the author name(s) and email(s) here.
@@ -57,7 +56,7 @@ setup(
     '''
     The url to where your package is stored for public view. Normally, it will be the github url to the repository you just forked.
     '''
-    url='https://github.com/jinhangjiang/morethansentiments',
+    url='https://github.com/YashIITM/Blue-Bandits',
     
     '''
     Leave it as deafult.
