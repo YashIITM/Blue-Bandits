@@ -1,6 +1,5 @@
 # CHANGELOG
 
-## Version 0.0.1 MM/DD/YYYY
-1. Upaded ...
-2. Fixed ...
-3. ...
+## Version 0.1.0 06/11/2023
+1. Launched BlueBandits
+
