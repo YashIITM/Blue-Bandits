@@ -9,7 +9,7 @@ setup(
     This name will be used when people try to do pip install. And it is CASE SENSITIVE. 
     You should create an unique name. Search on pypi.org to see if the name is taken or not.
     '''
-    name = 'YourPackageName', 
+    name = 'BlueBandits', 
     
     '''
     The version number of your package consists of three integers "Major.Minor.Patch".
@@ -22,7 +22,7 @@ setup(
     '''
     This is the short description will show on the top of the webpage of your package on pypi.org
     '''
-    description = 'An NLP python package for computing Boilerplate score and many other text features.',
+    description = 'An MAB python package for computing Next-Best-Actions and many other text features.',
     
     '''
     This is the name of your main module file. No need to include the .py at the end.
@@ -45,8 +45,8 @@ setup(
     '''
     Change the author name(s) and email(s) here.
     '''
-    author = 'AuthorName',
-    author_email = 'xyz123@something.com',
+    author = 'Yash Kumar Singh Jha',
+    author_email = 'ae19b016@smail.iitm.ac.in',
     
     '''
     Leave the following as default. It will show the readme and changelog on the main page of your package.
@@ -108,6 +108,6 @@ setup(
     '''
     The keywords of your package. It will help users to find your package on pypi.org
     '''
-    keywords = ['Text Mining', 'Data Science', ...],
+    keywords = ['Multi Armed Bandits', 'Data Science', 'Bandits', 'LinUCB' , 'LinUCBVI', 'NeuralUCB'],
     
 )
