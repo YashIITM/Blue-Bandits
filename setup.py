@@ -39,12 +39,7 @@ setup(
     
     include_package_data=True,
     
-    install_requires = [
-
-        'pandas ~= 1.2.4',
-        ...
-
-    ],
+    
     keywords = ['Multi Armed Bandits', 'Data Science', 'Bandits', 'LinUCB' , 'LinUCBVI', 'NeuralUCB'],
     
 )
