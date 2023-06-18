@@ -7,3 +7,4 @@ from algorithms.neuralucbvi import *
 from algorithms.ucb import *
 from algorithms.ucbvi import *
 from algorithms.utils import *
+from NeuralUCB.agent import *
